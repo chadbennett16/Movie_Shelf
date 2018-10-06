@@ -1,0 +1,3 @@
+﻿  Movie_Shelf.cpp
+c:\users\chad\source\repos\movie_shelf\movie_shelf\movie_shelf.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  Movie_Shelf.vcxproj -> c:\users\chad\source\repos\Movie_Shelf\Debug\Movie_Shelf.exe
